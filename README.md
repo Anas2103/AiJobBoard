@@ -5,13 +5,13 @@ A full-stack job board application with AI-powered CV matching and scoring.
 ## Stack
 - **Backend**: Laravel 12 (REST API) + JWT Auth
 - **Frontend**: React 19 + Vite + Tailwind CSS v4
-- **Database**: MySQL
-- **AI**: OpenAI GPT-3.5-turbo for CV/job matching
+- **Database**: SQLite by default (MySQL supported)
+- **AI**: OpenAI gpt-4o-mini for CV/job matching
 
 ## Setup Instructions
 
 ### Prerequisites
-- PHP 8.2+, Composer, Node.js 18+, MySQL
+- PHP 8.2+, Composer, Node.js 18+ (MySQL optional)
 
 ### Backend
 
@@ -111,3 +111,15 @@ Open **http://localhost:5173**
 - `DELETE /api/admin/users/{id}`
 - `GET /api/admin/jobs`
 - `DELETE /api/admin/jobs/{id}`
+
+---
+
+## More projects
+
+- [**CarsRental**](https://github.com/Anas2103/CarsRental) — car rental manager with roles and PayPal (Laravel · React)
+- [**E-Commerce**](https://github.com/Anas2103/Ecommerce) — multi-vendor store with Stripe & PayPal (Laravel · React) · [live demo](https://anas2103-ecommerce.vercel.app)
+- [**Relay**](https://github.com/Anas2103/Relay) — Telegram-style chat with E2EE secret chats and calls (Cloudflare Workers · React) · [live demo](https://relay-chat.bunbunchat.workers.dev)
+- [**SmartCourse**](https://github.com/Anas2103/SmartCoursePlatform) — online course platform with Stripe and certificates (Laravel · React)
+- [**Student & Course Manager**](https://github.com/Anas2103/StudentsCourseManager) — school management with 4 roles (Laravel · React)
+
+More about me on my [GitHub profile](https://github.com/Anas2103).

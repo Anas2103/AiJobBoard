@@ -1,0 +1,54 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1535 >>
+stream
+BT
+/F1 20 Tf 1 0 0 1 60 790 Tm (Alex Morgan) Tj
+/F1 12 Tf 1 0 0 1 60 761 Tm (Full-Stack Developer  |  alex.morgan@example.com  |  Casablanca, Morocco) Tj
+/F1 12 Tf 1 0 0 1 60 740 Tm () Tj
+/F1 14 Tf 1 0 0 1 60 719 Tm (Summary) Tj
+/F1 11 Tf 1 0 0 1 60 696 Tm (6 years building web applications with PHP/Laravel, React and TypeScript.) Tj
+/F1 11 Tf 1 0 0 1 60 676 Tm (Comfortable owning features end to end: API design, UI, testing and deployment.) Tj
+/F1 11 Tf 1 0 0 1 60 656 Tm () Tj
+/F1 14 Tf 1 0 0 1 60 636 Tm (Experience) Tj
+/F1 11 Tf 1 0 0 1 60 613 Tm (Senior Developer - Atlas Digital \(2022 - present\)) Tj
+/F1 11 Tf 1 0 0 1 60 593 Tm (  - Led migration of a monolith to a Laravel REST API + React SPA.) Tj
+/F1 11 Tf 1 0 0 1 60 573 Tm (  - Introduced CI pipelines, Docker-based environments and automated testing.) Tj
+/F1 11 Tf 1 0 0 1 60 553 Tm (Web Developer - Nova Agency \(2019 - 2022\)) Tj
+/F1 11 Tf 1 0 0 1 60 533 Tm (  - Built e-commerce and booking platforms for 20+ clients.) Tj
+/F1 11 Tf 1 0 0 1 60 513 Tm (  - Integrated Stripe, PayPal and third-party REST APIs.) Tj
+/F1 11 Tf 1 0 0 1 60 493 Tm () Tj
+/F1 14 Tf 1 0 0 1 60 473 Tm (Skills) Tj
+/F1 11 Tf 1 0 0 1 60 450 Tm (PHP, Laravel, MySQL, PostgreSQL, JavaScript, TypeScript, React, Node.js,) Tj
+/F1 11 Tf 1 0 0 1 60 430 Tm (Tailwind CSS, Docker, AWS, Git, REST APIs, JWT, unit and feature testing.) Tj
+/F1 11 Tf 1 0 0 1 60 410 Tm () Tj
+/F1 14 Tf 1 0 0 1 60 390 Tm (Education) Tj
+/F1 11 Tf 1 0 0 1 60 367 Tm (BSc Computer Science - Hassan II University \(2019\)) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1898
+%%EOF
